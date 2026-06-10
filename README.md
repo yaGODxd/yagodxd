@@ -31,9 +31,9 @@ Desenvolvedor Front-end em formação · Cruz Machado, PR
 
 <div align="center">
 
-![yaGODxd GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaGODxd&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![yaGODxd GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaGODxd&show_icons=true&theme=draculak&hide_border=true&count_private=true)
 &nbsp;&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaGODxd&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaGODxd&layout=compact&theme=draculak&hide_border=true)
 
 </div>
 
